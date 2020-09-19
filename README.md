@@ -30,7 +30,7 @@ Acesse o WebApp pelo navegador com o endereço (localhost:3000)[http://localhost
 
 [login](./prints/login.png "login")
 
-[home](prints/main_full.png "home")
+[home](./prints/main_full.png "home")
 
-[home empty](prints/main_0.png "home")
+[home empty](./prints/main_0.png "home")
 
