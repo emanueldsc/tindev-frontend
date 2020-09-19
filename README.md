@@ -12,6 +12,10 @@ Clone o repositorio para sua máquina com
     git clone https://github.com/emanueldsc/tindev-frontend.git
 ```
 
+**Obs:**
+
+> para o projeto funcionar corretamente é preciso executar o servidor que pode ser baixado no link: [Tindev Server](https://github.com/emanueldsc/tindev-server)
+
 No terminal navegue até a pasta do projeto e execute:
 
 ```
